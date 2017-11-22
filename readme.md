@@ -9,9 +9,13 @@ Poczatek
     7  ls
     8  ls -la
     9  history
+
+Pokazuje miejsce w ktorym jestem
+-----------------------------------------------------
    10  pwd
    11  clear
    12  pwd
+
 Przechodzenie do katalogu
 -----------------------------------------------------
    13  cd desktop
@@ -25,6 +29,9 @@ Przechodzenie do katalogu
    21  cd Desktop/
    22  cd ..
    23  cd Desktop/
+
+Tworzenie katalogu
+-----------------------------------------------------
    24  mkdir Pierwsze Repozytorium
    25  rmdir Repozytorium
    26  rmdir Pierwsze
