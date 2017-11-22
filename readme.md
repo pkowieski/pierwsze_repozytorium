@@ -11,38 +11,45 @@ Poczatek
     9  history
 
 Pokazuje miejsce w ktorym jestem
------------------------------------------------------
-  + 10  pwd
-  + 11  clear
-  + 12  pwd
+=====================================================
+   10  pwd
+   11  clear
+   12  pwd
 
 Przechodzenie do katalogu
------------------------------------------------------
-   + 13  cd desktop
-   + 14  cd Desktop
-   + 15  cd Pulpit
-   + 16  cd
-   + 17  cd..
-   + 18  cd Desktop/
-   + 19  cd..
-   + 20  cd ..
-   + 21  cd Desktop/
-   + 22  cd ..
-   + 23  cd Desktop/
+=====================================================
+    13  cd desktop
+    14  cd Desktop
+    15  cd Pulpit
+    16  cd
+    17  cd..
+    18  cd Desktop/
+    19  cd..
+    20  cd ..
+    21  cd Desktop/
+    22  cd ..
+    23  cd Desktop/
 
 Tworzenie katalogu
------------------------------------------------------
-   + 24  mkdir Pierwsze Repozytorium
-   + 25  rmdir Repozytorium
-   + 26  rmdir Pierwsze
-   + 27  mkdir pierwsze_repozytorium
-###inne
+=====================================================
+    24  mkdir Pierwsze Repozytorium
+    25  rmdir Repozytorium
+    26  rmdir Pierwsze
+    27  mkdir pierwsze_repozytorium
+
+inne
+====================================================
    28  cd pierwsze_repozytorium
    29  ls
-   30  clear    31  git
-###instalacja git
+   30  clear
+   31  git
+
+instalacja git
+=====================================================
    32  sudo apt-get install git
-###inne 
+
+inne
+==================================================== 
    33  git
    34  clar
    35  exit
@@ -58,14 +65,23 @@ Tworzenie katalogu
    45  git help
    46  cd Desktop/
    47  cd pierwsze_repozytorium/
-### Tworzenie pliku
+
+Tworzenie pliku
+=============================================================
    48  touch test.txt
+
+Edycja pliku
+==============================================================
    49  nano test.txt
-### inne
+
+inne
+==============================================================
    50  ls -la
    51  nano test.txt
    52  ls -la
-### git
+
+git
+==============================================================
    53  git init
    54  ls -la
    55  git status
@@ -95,5 +111,6 @@ Tworzenie katalogu
    79  git commit -m "druga zmiana"
    80  git log
    81  git push
+
 ### zapisywanie historii
    82  history > readme.md
