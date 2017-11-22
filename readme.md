@@ -1,3 +1,5 @@
+Poczatek
+=====================================================
     1  ls
     2  help
     3  ls
@@ -10,6 +12,8 @@
    10  pwd
    11  clear
    12  pwd
+Przechodzenie do katalogu
+-----------------------------------------------------
    13  cd desktop
    14  cd Desktop
    15  cd Pulpit
