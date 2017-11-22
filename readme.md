@@ -36,11 +36,13 @@ Tworzenie katalogu
    + 25  rmdir Repozytorium
    + 26  rmdir Pierwsze
    + 27  mkdir pierwsze_repozytorium
+###inne
    28  cd pierwsze_repozytorium
    29  ls
-   30  clear
-   31  git
+   30  clear    31  git
+###instalacja git
    32  sudo apt-get install git
+###inne 
    33  git
    34  clar
    35  exit
@@ -56,11 +58,14 @@ Tworzenie katalogu
    45  git help
    46  cd Desktop/
    47  cd pierwsze_repozytorium/
+### Tworzenie pliku
    48  touch test.txt
    49  nano test.txt
+### inne
    50  ls -la
    51  nano test.txt
    52  ls -la
+### git
    53  git init
    54  ls -la
    55  git status
@@ -90,4 +95,5 @@ Tworzenie katalogu
    79  git commit -m "druga zmiana"
    80  git log
    81  git push
+### zapisywanie historii
    82  history > readme.md
