@@ -12,30 +12,30 @@ Poczatek
 
 Pokazuje miejsce w ktorym jestem
 -----------------------------------------------------
-   10  pwd
-   11  clear
-   12  pwd
+  + 10  pwd
+  + 11  clear
+  + 12  pwd
 
 Przechodzenie do katalogu
 -----------------------------------------------------
-   13  cd desktop
-   14  cd Desktop
-   15  cd Pulpit
-   16  cd
-   17  cd..
-   18  cd Desktop/
-   19  cd..
-   20  cd ..
-   21  cd Desktop/
-   22  cd ..
-   23  cd Desktop/
+   + 13  cd desktop
+   + 14  cd Desktop
+   + 15  cd Pulpit
+   + 16  cd
+   + 17  cd..
+   + 18  cd Desktop/
+   + 19  cd..
+   + 20  cd ..
+   + 21  cd Desktop/
+   + 22  cd ..
+   + 23  cd Desktop/
 
 Tworzenie katalogu
 -----------------------------------------------------
-   24  mkdir Pierwsze Repozytorium
-   25  rmdir Repozytorium
-   26  rmdir Pierwsze
-   27  mkdir pierwsze_repozytorium
+   + 24  mkdir Pierwsze Repozytorium
+   + 25  rmdir Repozytorium
+   + 26  rmdir Pierwsze
+   + 27  mkdir pierwsze_repozytorium
    28  cd pierwsze_repozytorium
    29  ls
    30  clear
